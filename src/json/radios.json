@@ -1,0 +1,542 @@
+[
+  {
+    "id": "37635",
+    "name": "Electro Swing"
+  },
+  {
+    "id": "45322",
+    "name": "Bollywood"
+  },
+  {
+    "id": "37645",
+    "name": "Summer afternoon"
+  },
+  {
+    "id": "30991",
+    "name": "Hip Hop"
+  },
+  {
+    "id": "36891",
+    "name": "Deep House"
+  },
+  {
+    "id": "30751",
+    "name": "Pop Kids"
+  },
+  {
+    "id": "37151",
+    "name": "Hits"
+  },
+  {
+    "id": "38435",
+    "name": "Acoustic Afternoon"
+  },
+  {
+    "id": "31021",
+    "name": "Rap US"
+  },
+  {
+    "id": "38445",
+    "name": "Motown"
+  },
+  {
+    "id": "30771",
+    "name": "Indie"
+  },
+  {
+    "id": "41782",
+    "name": "TNTF"
+  },
+  {
+    "id": "31031",
+    "name": "Jazz"
+  },
+  {
+    "id": "30781",
+    "name": "Alternative"
+  },
+  {
+    "id": "38215",
+    "name": "Dubstep"
+  },
+  {
+    "id": "31051",
+    "name": "Vocal jazz"
+  },
+  {
+    "id": "38225",
+    "name": "Focus"
+  },
+  {
+    "id": "31061",
+    "name": "Pop"
+  },
+  {
+    "id": "30811",
+    "name": "Old School R&amp;B"
+  },
+  {
+    "id": "39021",
+    "name": "French Rap"
+  },
+  {
+    "id": "30831",
+    "name": "Funk"
+  },
+  {
+    "id": "31091",
+    "name": "Reggae"
+  },
+  {
+    "id": "39031",
+    "name": "Cosy Fireplace"
+  },
+  {
+    "id": "30841",
+    "name": "Disco"
+  },
+  {
+    "id": "39041",
+    "name": "Happy Hour"
+  },
+  {
+    "id": "30851",
+    "name": "Techno"
+  },
+  {
+    "id": "37765",
+    "name": "Rock classics"
+  },
+  {
+    "id": "31111",
+    "name": "Reggae/Dub"
+  },
+  {
+    "id": "648",
+    "name": "EDM"
+  },
+  {
+    "id": "39051",
+    "name": "Sad Songs"
+  },
+  {
+    "id": "30861",
+    "name": "Soul"
+  },
+  {
+    "id": "31121",
+    "name": "Ska"
+  },
+  {
+    "id": "38295",
+    "name": "The '70s"
+  },
+  {
+    "id": "30621",
+    "name": "Electronic"
+  },
+  {
+    "id": "39071",
+    "name": "Gospel"
+  },
+  {
+    "id": "30881",
+    "name": "R&amp;B"
+  },
+  {
+    "id": "38305",
+    "name": "The '80s"
+  },
+  {
+    "id": "37031",
+    "name": "Hard Rock"
+  },
+  {
+    "id": "30891",
+    "name": "Rock &amp; Roll"
+  },
+  {
+    "id": "40622",
+    "name": "Grime "
+  },
+  {
+    "id": "30901",
+    "name": "Metal"
+  },
+  {
+    "id": "38335",
+    "name": "Disney"
+  },
+  {
+    "id": "36801",
+    "name": "Country"
+  },
+  {
+    "id": "30661",
+    "name": "Classical"
+  },
+  {
+    "id": "37061",
+    "name": "Opera"
+  },
+  {
+    "id": "30921",
+    "name": "Blues"
+  },
+  {
+    "id": "37071",
+    "name": "Minimal"
+  },
+  {
+    "id": "30931",
+    "name": "Pop Rock"
+  },
+  {
+    "id": "37081",
+    "name": "Surf Songs"
+  },
+  {
+    "id": "37091",
+    "name": "Folk"
+  },
+  {
+    "id": "30951",
+    "name": "Dance"
+  },
+  {
+    "id": "30701",
+    "name": "Film Scores"
+  },
+  {
+    "id": "37101",
+    "name": "Old School Hip Hop"
+  },
+  {
+    "id": "42042",
+    "name": "Hits"
+  },
+  {
+    "id": "42262",
+    "name": "Folk"
+  },
+  {
+    "id": "42242",
+    "name": "Indie"
+  },
+  {
+    "id": "42082",
+    "name": "Pop Rock"
+  },
+  {
+    "id": "42162",
+    "name": "Techno"
+  },
+  {
+    "id": "42202",
+    "name": "Hard Rock"
+  },
+  {
+    "id": "42402",
+    "name": "Soul &amp; Funk"
+  },
+  {
+    "id": "42442",
+    "name": "Disco"
+  },
+  {
+    "id": "42462",
+    "name": "Blues"
+  },
+  {
+    "id": "42062",
+    "name": "Pop"
+  },
+  {
+    "id": "42382",
+    "name": "R’n’B"
+  },
+  {
+    "id": "42302",
+    "name": "Rap"
+  },
+  {
+    "id": "42502",
+    "name": "Classical"
+  },
+  {
+    "id": "42222",
+    "name": "Metal"
+  },
+  {
+    "id": "42182",
+    "name": "Rock"
+  },
+  {
+    "id": "42482",
+    "name": "Jazz"
+  },
+  {
+    "id": "42122",
+    "name": "Dance"
+  },
+  {
+    "id": "42102",
+    "name": "Electronic"
+  },
+  {
+    "id": "45104",
+    "name": "Roadtrip"
+  },
+  {
+    "id": "45124",
+    "name": "test forro"
+  },
+  {
+    "id": "35751",
+    "name": "Fiestas Patrias"
+  },
+  {
+    "id": "38945",
+    "name": "Nursery Rhymes"
+  },
+  {
+    "id": "33931",
+    "name": "K-Pop"
+  },
+  {
+    "id": "36791",
+    "name": "Latin Music"
+  },
+  {
+    "id": "35981",
+    "name": "Falling in K-Pop"
+  },
+  {
+    "id": "34855",
+    "name": "Japanese Pop"
+  },
+  {
+    "id": "32061",
+    "name": "Ao Vivo"
+  },
+  {
+    "id": "45184",
+    "name": "Test_Magalu"
+  },
+  {
+    "id": "42142",
+    "name": "Musicas Brasileiras"
+  },
+  {
+    "id": "41922",
+    "name": "Sobrasura"
+  },
+  {
+    "id": "41722",
+    "name": "Hair Fashion Night 2017"
+  },
+  {
+    "id": "41304",
+    "name": "Valleton POKER"
+  },
+  {
+    "id": "41284",
+    "name": "Mereton POKER"
+  },
+  {
+    "id": "41264",
+    "name": "Merenato POKER"
+  },
+  {
+    "id": "41244",
+    "name": "Rancheton POKER"
+  },
+  {
+    "id": "41224",
+    "name": "Ranchenato POKER"
+  },
+  {
+    "id": "41204",
+    "name": "Rancherengue POKER"
+  },
+  {
+    "id": "41184",
+    "name": "Salsaton POKER"
+  },
+  {
+    "id": "41164",
+    "name": "Salsanato POKER"
+  },
+  {
+    "id": "41144",
+    "name": "Salserengue POKER"
+  },
+  {
+    "id": "41124",
+    "name": "Salcheras POKER"
+  },
+  {
+    "id": "41104",
+    "name": "Ranchesalsa POKER"
+  },
+  {
+    "id": "41084",
+    "name": "Meresalsa POKER"
+  },
+  {
+    "id": "41064",
+    "name": "Merenchera POKER"
+  },
+  {
+    "id": "41044",
+    "name": "Vallelsa POKER"
+  },
+  {
+    "id": "41024",
+    "name": "Vallencheras POKER"
+  },
+  {
+    "id": "41004",
+    "name": "Vallerengue POKER"
+  },
+  {
+    "id": "40984",
+    "name": "Realsa POKER"
+  },
+  {
+    "id": "40964",
+    "name": "Reggaeras POKER"
+  },
+  {
+    "id": "40944",
+    "name": "Reggaerengue POKER"
+  },
+  {
+    "id": "40924",
+    "name": "Reggaenato POKER"
+  },
+  {
+    "id": "40904",
+    "name": "Salsa POKER"
+  },
+  {
+    "id": "40884",
+    "name": "Rancheras POKER"
+  },
+  {
+    "id": "40864",
+    "name": "Merengue POKER"
+  },
+  {
+    "id": "40844",
+    "name": "Vallenato POKER"
+  },
+  {
+    "id": "40824",
+    "name": "Reggaetón POKER"
+  },
+  {
+    "id": "40822",
+    "name": "Brain Mix Relax"
+  },
+  {
+    "id": "40802",
+    "name": "Brain Mix Joy"
+  },
+  {
+    "id": "40762",
+    "name": "Concentration Mix Brainzone"
+  },
+  {
+    "id": "37471",
+    "name": "Ibis Play Australia"
+  },
+  {
+    "id": "39362",
+    "name": "75 YEARS TO THE BEAT OF ERA-DEFINING MUSIC 1940"
+  },
+  {
+    "id": "39462",
+    "name": "75 YEARS TO THE BEAT OF ERA-DEFINING MUSIC 1990"
+  },
+  {
+    "id": "39482",
+    "name": "75 YEARS TO THE BEAT OF ERA-DEFINING MUSIC 2000"
+  },
+  {
+    "id": "39442",
+    "name": "75 YEARS TO THE BEAT OF ERA-DEFINING MUSIC 1980"
+  },
+  {
+    "id": "39422",
+    "name": "75 YEARS TO THE BEAT OF ERA-DEFINING MUSIC 1970"
+  },
+  {
+    "id": "39382",
+    "name": "75 YEARS TO THE BEAT OF ERA-DEFINING MUSIC 1950"
+  },
+  {
+    "id": "39402",
+    "name": "75 YEARS TO THE BEAT OF ERA-DEFINING MUSIC 1960"
+  },
+  {
+    "id": "39282",
+    "name": "20km de Bruxelles"
+  },
+  {
+    "id": "39262",
+    "name": "Liverpool Sound City "
+  },
+  {
+    "id": "39242",
+    "name": "Liverpool Sound City 2016"
+  },
+  {
+    "id": "39222",
+    "name": "Catraca Livre"
+  },
+  {
+    "id": "36701",
+    "name": "Purebreak Brasil"
+  },
+  {
+    "id": "18445",
+    "name": "Universal Music"
+  },
+  {
+    "id": "33041",
+    "name": "Som Livre"
+  },
+  {
+    "id": "25405",
+    "name": "Deck"
+  },
+  {
+    "id": "32091",
+    "name": "Wikimetal"
+  },
+  {
+    "id": "20215",
+    "name": "SLAP"
+  },
+  {
+    "id": "36351",
+    "name": "Brasileiríssimos"
+  },
+  {
+    "id": "35761",
+    "name": "Pháp.fr - Institut français du Vietnam"
+  },
+  {
+    "id": "22455",
+    "name": "Tratore"
+  },
+  {
+    "id": "23301",
+    "name": "Sony Music"
+  },
+  {
+    "id": "19005",
+    "name": "Tenho Mais Discos Que Amigos"
+  }
+]
