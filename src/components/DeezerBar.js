@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
+import PropTypes from "prop-types";
 
-export default function DeezerBar() {
+export default function DeezerBar({isAutoplay, width, height, detailsHexColor, radioId, isDarkTheme}) {
   useEffect(() => create());
 
   const create = () => {
@@ -31,7 +32,7 @@ export default function DeezerBar() {
     <div
       style={barStyle}
       className="deezer-widget-player"
-      data-src="https://www.deezer.com/plugins/player?format=classic&autoplay=false&playlist=true&width=700&height=350&color=EF5466&layout=&size=medium&type=radio&id=radio-37635&app_id=1"
+      data-src={`https://www.deezer.com/plugins/player?format=classic&autoplay=${isAutoplay}&playlist=true&width=${width}&height=${height}&color=${detailsHexColor}&layout=${isDarkTheme? "dark" : ""}&size=medium&type=radio&id=${radioId}&app_id=1`}
       data-scrolling="no"
       data-frameborder="0"
       data-width="100%"
@@ -39,6 +40,15 @@ export default function DeezerBar() {
     ></div>
   );
 }
+
+DeezerBar.propTypes = {
+  isAutoplay: PropTypes.bool.isRequired,
+  width: PropTypes.number.isRequired,
+  height: PropTypes.number.isRequired,
+  detailsHexColor: PropTypes.string.isRequired,
+  radioId: PropTypes.string.isRequired,
+  isDarkTheme: PropTypes.bool.isRequired,
+};
 
 const barStyle = {
   position: "fixed",
